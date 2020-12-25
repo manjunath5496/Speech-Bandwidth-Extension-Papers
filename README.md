@@ -68,4 +68,15 @@ Enhancements for Audio-only Diarization Systems</a></li>
  
   <li><a target="_blank" href="https://github.com/manjunath5496/Speech-Bandwidth-Extension-Papers/blob/master/sv(35).pdf" style="text-decoration:none;">Stream-based speaker segmentation using speaker factors and eigenvoices</a></li> 
 
+<li><a target="_blank" href="https://github.com/manjunath5496/Speech-Bandwidth-Extension-Papers/blob/master/sv(36).pdf" style="text-decoration:none;">Speech bandwidth extension with WaveNet</a></li> 
+ 
+<li><a target="_blank" href="https://github.com/manjunath5496/Speech-Bandwidth-Extension-Papers/blob/master/sv(37).pdf" style="text-decoration:none;">Superwideband Bandwidth Extension Using Normalized MDCT Coefficients for Scalable Speech and Audio Coding</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Speech-Bandwidth-Extension-Papers/blob/master/sv(38).pdf" style="text-decoration:none;">Bandwidth extension of telephone speech using a filter bank implementation for highband MEL spectrum</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Speech-Bandwidth-Extension-Papers/blob/master/sv(39).pdf" style="text-decoration:none;">Bandwidth Extension of Speech Signals: A Comprehensive Review</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Speech-Bandwidth-Extension-Papers/blob/master/sv(40).pdf" style="text-decoration:none;">Artificial Bandwidth Extension of Band Limited Speech Based on Vocal Tract Shape Estimation</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Speech-Bandwidth-Extension-Papers/blob/master/sv(41).pdf" style="text-decoration:none;">Bandwidth extension of musical audio signals with no side information using dilated convolutional neural networks</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Speech-Bandwidth-Extension-Papers/blob/master/sv(42).pdf" style="text-decoration:none;">Artificial bandwidth extension using the constant Q transform</a></li>
+
+
+
   </ul>
