@@ -10,7 +10,7 @@
 
  <li><a target="_blank" href="https://github.com/manjunath5496/Speech-Bandwidth-Extension-Papers/blob/master/sv(2).pdf" style="text-decoration:none;">An Overview of Automatic Speaker Diarization Systems</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Speech-Bandwidth-Extension-Papers/blob/master/sv(3).pdf" style="text-decoration:none;">pyannote.metrics: a toolkit for reproducible evaluation, diagnostic, and error analysis of speaker diarization systems</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Speech-Bandwidth-Extension-Papers/blob/master/sv(3).PDF" style="text-decoration:none;">pyannote.metrics: a toolkit for reproducible evaluation, diagnostic, and error analysis of speaker diarization systems</a></li>
  <li><a target="_blank" href="https://github.com/manjunath5496/Speech-Bandwidth-Extension-Papers/blob/master/sv(4).pdf" style="text-decoration:none;">A Speaker Diarization System for Studying Peer-Led Team Learning Groups</a></li>                              
 <li><a target="_blank" href="https://github.com/manjunath5496/Speech-Bandwidth-Extension-Papers/blob/master/sv(5).pdf" style="text-decoration:none;">Speaker Diarization using Deep Recurrent Convolutional Neural Networks for Speaker Embeddings</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Speech-Bandwidth-Extension-Papers/blob/master/sv(6).pdf" style="text-decoration:none;">Speaker Diarization with LSTM</a></li>
@@ -62,7 +62,7 @@ Enhancements for Audio-only Diarization Systems</a></li>
    <li><a target="_blank" href="https://github.com/manjunath5496/Speech-Bandwidth-Extension-Papers/blob/master/sv(31).pdf" style="text-decoration:none;">A Study of the Cosine Distance-Based Mean Shift for Telephone Speech Diarization</a></li> 
     <li><a target="_blank" href="https://github.com/manjunath5496/Speech-Bandwidth-Extension-Papers/blob/master/sv(32).pdf" style="text-decoration:none;">Unsupervised Methods for Speaker Diarization: An Integrated and Iterative Approach</a></li> 
 
-   <li><a target="_blank" href="https://github.com/manjunath5496/Speech-Bandwidth-Extension-Papers/blob/master/sv(33).pdf" style="text-decoration:none;">Speaker Diarization for Meeting Room Audio</a></li>                              
+   <li><a target="_blank" href="https://github.com/manjunath5496/Speech-Bandwidth-Extension-Papers/blob/master/sv(33).PDF" style="text-decoration:none;">Speaker Diarization for Meeting Room Audio</a></li>                              
 
   <li><a target="_blank" href="https://github.com/manjunath5496/Speech-Bandwidth-Extension-Papers/blob/master/sv(34).pdf" style="text-decoration:none;">Speaker diarization of meetings based on speaker role n-gram models</a></li> 
  
